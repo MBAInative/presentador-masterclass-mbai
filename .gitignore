@@ -1,0 +1,7 @@
+__pycache__/
+*.pptx
+*.pdf
+assets/
+.env
+.venv/
+venv/
